@@ -1,7 +1,7 @@
 # meltdown-poc
 A PoC implementation of the meltdown attack described in https://meltdownattack.com/meltdown.pdf
 
-This implementation was testet on Windows 10 (`10.0.15063.0`) on Intel Atom x5-Z8350 hardware.
+This implementation was tested on Windows 10 (`10.0.15063.0`) on Intel Atom x5-Z8350 hardware.
 
 It is likely that it needs some tweaking to run properly on other platforms.
 
